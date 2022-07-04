@@ -59,9 +59,9 @@
 <a href="https://www.instagram.com/schreiberdor/"><img src="https://img.shields.io/badge/-@schreiberdor-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
+<!---
 Last Edited on: 12/02/2020
 
-<!---
 dor1202/dor1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
