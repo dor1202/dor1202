@@ -26,7 +26,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=NestJS&logoColor=d92525)\
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=MUI&logoColor=2c69e2)&nbsp;
+![MudBlazor](https://img.shields.io/badge/-MudBlazor-05122A?style=flat&logo=MUI&logoColor=594AE2)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron&logoColor=74B1BE)
+![WPF](https://img.shields.io/badge/-WPF-05122A?style=flat&logo=dotnet)
+![UWP](https://img.shields.io/badge/-UWP-05122A?style=flat&logo=dotnet)\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=12ba0f)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=1e9bda)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL&logoColor=e22cda)&nbsp;
@@ -35,11 +39,17 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket&logoColor=0052CC)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=b316da)\
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=b316da)
+![Rider](https://img.shields.io/badge/-Rider-05122A?style=flat&logo=rider&logoColor=F76707)
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pyCharm&logoColor=99E966)\
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=Swagger)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest&logoColor=921212)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest&logoColor=C03B13)&nbsp;
+![Mocha](https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=mocha&logoColor=8D6849)&nbsp;
+![Jasmine](https://img.shields.io/badge/-Jasmine-05122A?style=flat&logo=jasmine&logoColor=8A4182)&nbsp;
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=puppeteer&logoColor=01D8A2)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)
 
 ### ⚙️ &nbsp;GitHub Analytics
