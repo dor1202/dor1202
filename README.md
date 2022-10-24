@@ -56,8 +56,11 @@
 
 <p align="center">
 <a href="https://github.com/dor1202">
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=dor1202&theme=algolia&column=-1"/>
+  <br/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dor1202&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dor1202&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dor1202&theme=algolia&hide_border=true"/>
 </a>
 </p>
 
